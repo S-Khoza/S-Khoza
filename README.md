@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Khoza
 - 👀 I’m interested in python programming 
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
